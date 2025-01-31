@@ -35,8 +35,8 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/your-repo/voice-transcription-system.git
-cd voice-transcription-system/gradio-whisper
+git clone https://github.com/AdamPlatin123/Faster-Whisper-WebUI.git
+cd Faster-Whisper-WebUI
 
 # 创建虚拟环境
 python -m venv venv
