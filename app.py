@@ -363,4 +363,4 @@ if __name__ == "__main__":
         )
     finally:
         print(f"✅ 服务运行在端口: {selected_port}")
-        interface.close()  # 确保释放资源
+      
